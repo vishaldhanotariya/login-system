@@ -1,0 +1,6 @@
+function showLoginAndRegister(){
+  
+
+}
+
+export {showLoginAndRegister}
